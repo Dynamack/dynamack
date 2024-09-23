@@ -1,6 +1,4 @@
-Hey, I'm Odhrán
-
-I'm a Data Scientist. Normally I code in Python and I have the following skills:
+Hey, my name is Odhrán and I'm a Data Scientist. Normally I code in Python and I have the following skills:
 <ul>
   <li>Visualisations [matplotlib, Seaborns]</li>
   <li>Machine Learning (Regression, k-means, etc) [scikit-learn, Keras, TensorFlow]</li>
