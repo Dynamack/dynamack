@@ -8,7 +8,7 @@ Hi, I'm Odhrán, and I love writing Python with a focus on Data Science:
 - Visualisations (matplotlib, Seaborns)
 
 ### Projects
-Check out my code [portfolio](https://github.com/Dynamack/Code_Portfolio/tree/main)
+Check out my code [portfolio](https://github.com/Dynamack/Code_Portfolio/tree/main).
 
 ### Tools
 - Languages: Python, SQL, HTML, CSS
