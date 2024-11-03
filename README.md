@@ -1,13 +1,16 @@
 ## About Me
 
 Hi, I'm Odhrán, and I love writing Python with a focus on Data Science:
-- Data Wrangling [SQL, requests, BeautifulSoup]</li>
-- Transforming Data [numpy, pandas]</li>
-- Statistical Modelling [statsmodels, SciPy]</li>
-- Unsupervised and Supervised Machine Learning [scikit-learn, Keras, TensorFlow]
-- Visualisations [matplotlib, Seaborns]
+- Data Wrangling (SQL, requests, BeautifulSoup)
+- Transforming Data (numpy, pandas)
+- Statistical Modelling (statsmodels, SciPy)
+- Unsupervised and Supervised Machine Learning (scikit-learn, Keras, TensorFlow)
+- Visualisations (matplotlib, Seaborns)
+
+### Projects
+Check out my code [portfolio](https://github.com/Dynamack/Code_Portfolio/tree/main)
 
 ### Tools
 - Languages: Python, SQL, HTML, CSS
 - Databases: MySQL, PostgreSQL, MSSQL
-- Visualisations
+- Visualisations: PowerBI, Tableau
