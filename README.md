@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Odhrán, and I love writing Python with a focus on Data Science:
+Hi, my name is Odhrán, and I love writing Python with a focus on Data Science:
 - Data Wrangling (SQL, requests, BeautifulSoup)
 - Transforming Data (numpy, pandas)
 - Statistical Modelling (statsmodels, SciPy)
